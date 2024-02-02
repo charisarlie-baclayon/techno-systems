@@ -112,3 +112,8 @@ Must run this with git bash in windows or in linux terminal.
 docker rmi $(docker images -f "dangling=true" -q)
 docker volume rm $(docker volume ls -q)
 ```
+
+## Recommended Revisions
+- Global editing of activities
+- Prompt/warning prior to activity deletion
+- On activity and activity template form - "Description" change to "Details" or "Instructions"
