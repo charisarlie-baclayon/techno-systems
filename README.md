@@ -116,4 +116,4 @@ docker volume rm $(docker volume ls -q)
 ## Recommended Revisions
 - Global editing of activities
 - Prompt/warning prior to activity deletion
-- On activity form - "Description" change to "Details" or "Instructions"
+- On activity and activity template form - "Description" change to "Details" or "Instructions"
